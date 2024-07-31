@@ -172,6 +172,7 @@ function login() {
 function acharocara(userName) {
     // Buscar Vetor do localStorage
     vetor = JSON.parse(localStorage.getItem("vetor"));
+    if(vetor == undefined) return;
     let ocara = null;
 
     // percorrer o vetor
