@@ -19,21 +19,18 @@ Machine_Inc/
 ```
 
 ## Funcionalidades
-Bater Ponto: Interface para o usuário registrar a entrada e saída do trabalho.
-
-Editar Perfil: Interface para o usuário atualizar suas informações pessoais.
+- Bater Ponto: Interface para o usuário registrar a entrada e saída do trabalho.
+- Editar Perfil: Interface para o usuário atualizar suas informações pessoais.
 
 ## Tecnologias Utilizadas
-HTML5: Para a estrutura do site.
-
-CSS3: Para estilização e layout.
-
-JavaScript: Para interatividade e funcionalidades dinâmicas.
+- HTML5: Para a estrutura do site.
+- CSS3: Para estilização e layout.
+- JavaScript: Para interatividade e funcionalidades dinâmicas.
 
 ## Como Usar
-- Clone o repositório: git clone https://github.com/seu-usuario/Machine_Inc.git
-- Navegue até o diretório do projeto: cd Machine_Inc
-- Abra o arquivo login.html em um navegador web para visualizar a aplicação.
+1. Clone o repositório: git clone https://github.com/seu-usuario/Machine_Inc.git
+2. Navegue até o diretório do projeto: cd Machine_Inc
+3. Abra o arquivo login.html em um navegador web para visualizar a aplicação.
 
 ## Inspiração
 Este projeto foi inspirado na música "Welcome to the Machine" do Pink Floyd. A canção fala sobre a integração de um 'filho' ao sistema industrial, simbolizando as engrenagens que moldam e controlam os indivíduos, ditando suas ações, sonhos e desejos.
@@ -41,8 +38,8 @@ Este projeto foi inspirado na música "Welcome to the Machine" do Pink Floyd. A 
 ## Contribuição
 Se você deseja contribuir com este projeto, por favor, siga estas etapas:
 
-Faça um fork do repositório.
-Crie um branch para sua feature: git checkout -b feature/nova-feature
-Faça commit das suas alterações: git commit -m 'Adiciona nova feature'
-Faça push para o branch: git push origin feature/nova-feature
-Abra um Pull Request.
+1. Faça um fork do repositório;
+2. Crie um branch para sua feature: git checkout -b feature/nova-feature;
+3. Faça commit das suas alterações: git commit -m 'Adiciona nova feature';
+4. Faça push para o branch: git push origin feature/nova-feature;
+5. Abra um Pull Request.
