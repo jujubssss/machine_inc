@@ -33,7 +33,7 @@ JavaScript: Para interatividade e funcionalidades dinâmicas.
 ## Como Usar
 - Clone o repositório: git clone https://github.com/seu-usuario/Machine_Inc.git
 - Navegue até o diretório do projeto: cd Machine_Inc
-- Abra o arquivo index.html em um navegador web para visualizar a aplicação.
+- Abra o arquivo login.html em um navegador web para visualizar a aplicação.
 
 ## Inspiração
 Este projeto foi inspirado na música "Welcome to the Machine" do Pink Floyd. A canção fala sobre a integração de um 'filho' ao sistema industrial, simbolizando as engrenagens que moldam e controlam os indivíduos, ditando suas ações, sonhos e desejos.
