@@ -116,7 +116,8 @@ function cadastro() {
                     "email": email.value,
                     "cpf": cpf.value,
                     "senha": senha.value,
-                    "genero": genero.value
+                    "genero": genero.value,
+                    "registros": usuarioLogado.registros
                 };
                 usuarioLogado = vetor[i];
                 localStorage.setItem("usuarioLogado", JSON.stringify(usuarioLogado));
